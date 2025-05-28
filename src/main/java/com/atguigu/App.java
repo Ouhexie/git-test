@@ -9,5 +9,6 @@ public class App {
         System.out.println("Hello Git! 2");
         System.out.println("Hello Git! 3");
         System.out.println("Hello Git! 4");
+        System.out.println("Hello Git! Hot-fix 5");
     }
 }
